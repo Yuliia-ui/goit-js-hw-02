@@ -1,0 +1,1 @@
+const logItems = function(array) {};
